@@ -16,9 +16,9 @@ public interface Database {
 
     static Connection getConnection() {
 
-        final String DB_USERNAME = "postgres";
-        final String DB_PASSWORD = "hasan2006";
-        final String DB_URL = "jdbc:postgresql://localhost:5432/AvtoElonUz";
+        final String DB_USERNAME = "";
+        final String DB_PASSWORD = "";
+        final String DB_URL = "";
 
         Connection conn = null;
         try {

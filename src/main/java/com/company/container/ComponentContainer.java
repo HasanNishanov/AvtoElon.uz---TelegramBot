@@ -11,10 +11,10 @@ import java.util.Map;
 
 public abstract class ComponentContainer {
 
-    public static final String BOT_TOKEN = "5298958747:AAFQ-D68J3mT8uBsfdHhZBqv6rRyE8Y6OKs";
-    public static final String BOT_NAME = "avtoelonyz_bot";
+    public static final String BOT_TOKEN = "";
+    public static final String BOT_NAME = "";
 
-    public static final String ADMIN_ID = "136028879";
+    public static final String ADMIN_ID = "";
 
     public static AvtoBot MY_TELEGRAM_BOT;
 
